@@ -1,9 +1,1 @@
-[
-    "My first post",
-    "Where it begins",
-    "27 Nov 2023",
-    ["Life"],
-    "./images/2b.webp",
-    0, "Hey, I'll be posting about full-stack web development, game-development. I plan on showing my works in JS, HTML, CSS, Python and C++.",
-    0, "My next posts will be about how I made this blog with just plain HTML, CSS and JS. Check out my <a href='https://cliffordwilliam.github.io/personal-site-static/' target='_blank'>personal portfolio site</a>, there you can see my works and learn more about me. If there is anything in my projects that you would like to know more, feel free to <a href='mailto:ccliffordwilliam@gmail.com'>email me</a>"
-]
+["My first post","Where it begins","27 Nov 2023",["Life"],"./images/2b.webp",0,"Hey, I'll be posting about full-stack web development, game-development. I plan on showing my works in JS, HTML, CSS, Python and C++.",0,"My next posts will be about how I made this blog with just plain HTML, CSS and JS. Check out my <a href='https://cliffordwilliam.github.io/personal-site-static/' target='_blank'>personal portfolio site</a>, there you can see my works and learn more about me. If there is anything in my projects that you would like to know more, feel free to <a href='mailto:ccliffordwilliam@gmail.com'>email me</a>"]
